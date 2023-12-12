@@ -1,0 +1,1 @@
+make python/js script that applys layers onto BASE.JPG foreach quality
